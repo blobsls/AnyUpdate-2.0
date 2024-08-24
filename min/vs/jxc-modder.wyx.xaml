@@ -1,0 +1,17 @@
+<>System.arrange.std::handle
+<>System.install.jxc.wyx::std
+<>System.install.jxc.kable::std
+<>System.install.jxc.Loader::std
+
+jxcFunc.PerHandle<>System.install::std
+jxcFunc.variable<>System.arrange::nestwd
+
+nestwd.jxcImporter.common<>System.arrange::jxc.kable
+nestwd.jxcImporter.common<>System.arrange::jxc.wyx
+
+<nestwd>System.install.common<commonTag>
+
+<mrk>System.install.mrk<mrkd>
+<nestwdX>System.install.nestwdX<nestwdxDir>
+
+mrk<dist>{<sdk>}<nestwdT>
